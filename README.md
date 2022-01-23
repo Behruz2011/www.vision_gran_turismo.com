@@ -1,5 +1,5 @@
 <html>
- <header>
+ <body>
  <h1>Mercedes vision gran turismo </h1>
  <img src="https://i.ytimg.com/vi/BrA3AECVsGk/maxresdefault.jpg"/>
  <p> Проект Vision Gran Turismo - это уникальная инициатива, в рамках которой ведущие автопроизводители и крупнейшие мировые бренды разрабатывают концепт-кары специально для поклонников серии Gran Turismo. Первым результатом этого инновационного сотрудничества стала модель Mercedes-Benz AMG Vision Gran Turismo.
