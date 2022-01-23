@@ -10,7 +10,7 @@
          <p>Звучание этой модели заслуживает отдельного упоминания. Специалисты из AMG намеренно настроили ноту выхлопа и шум мотора таким образом, что характерный мощный рев               машины привлекает внимание на любых гоночных трассах.
           Выбор подвески со сдвоенными параллельными рычагами спереди и поперечными балками сзади основан на богатом гоночном опыте Mercedes-Benz. Электронная блокировка                      дифференциала обеспечивает идеальную тягу ведущих задних колес, а мощные керамические тормоза AMG гарантируют надежное торможение на любой скорости.</p>
   <img src="https://factum-info.net/images/3_Interesnoe/1_avto/90_2_Mercedes-Benz-AMG-Vision-Gran-Turismo-14.jpg"/>
-           <a href="https://youtu.be/0_iULLlcsSo"/> Mercedes-AMG Vision Gran Turismo – Trailer </a>
+           <a href="https://youtu.be/0_iULLlcsSo"/> Mercedes-AMG Vision Gran Turismo – Trailer
   <h2>Thanks for visiting my site</h2>
     </header>
            </html>
